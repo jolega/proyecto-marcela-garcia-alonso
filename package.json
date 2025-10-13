@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/jolega/proyecto-marcela-garcia-alonso",
+  "homepage": "https://jolega.github.io/proyecto-marcela-garcia-alonso",
   "scripts": {
     "deploy": "vite build && gh-pages -d dist",
     "dev": "vite",
