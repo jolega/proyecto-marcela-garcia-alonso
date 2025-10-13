@@ -150,7 +150,7 @@ const Contact = () => {
                     href="tel:667894213" 
                     className="text-muted-foreground hover:text-primary transition-colors font-inter"
                   >
-                    667 894 213
+                    + 34 667 894 213
                   </a>
                 </div>
               </div>
