@@ -8,11 +8,8 @@ const WorkMethod = () => {
         
         <div className="bg-card p-8 md:p-12 rounded-2xl shadow-sm border border-border">
           <h3 className="text-2xl font-playfair font-semibold text-primary mb-6">
-            Trabajo contigo, no para ti.
+            Colaboro contigo en cada paso del camino. Mi enfoque es transparente, flexible y siempre orientado a resultados.
           </h3>
-          <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
-            Mi enfoque es colaborativo, transparente y flexible.
-          </p>
           <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
             Analizo tus necesidades, propongo soluciones realistas y ejecuto con método y creatividad.
           </p>
