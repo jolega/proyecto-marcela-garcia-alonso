@@ -3,7 +3,8 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig({
-  base: "/proyecto-marcela-garcia-alonso/", // 👈 IMPORTANTE para GitHub Pages
+  //base: "/proyecto-marcela-garcia-alonso/", // 👈 IMPORTANTE para GitHub Pages
+  base: "/",
   server: {
     host: "::",
     port: 8080,
