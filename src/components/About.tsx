@@ -26,7 +26,7 @@ const About = () => {
                 
                 <div className="flex-1">
                   <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
-                    Soy Marcela García, asistente virtual especializada en marketing digital y apoyo administrativo.
+                    Soy Marcela García, asistente virtual con experiencia en marketing digital y apoyo administrativo.
                   </p>
                   <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
                     Ayudo a profesionales y pequeñas empresas a ahorrar tiempo, mejorar su presencia online y optimizar su día a día con estrategia y organización.
