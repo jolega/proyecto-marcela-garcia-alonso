@@ -8,10 +8,13 @@ const WorkMethod = () => {
         
         <div className="bg-card p-8 md:p-12 rounded-2xl shadow-sm border border-border">
           <h3 className="text-2xl font-playfair font-semibold text-primary mb-6">
-            Colaboro contigo en cada paso del camino. Mi enfoque es transparente, flexible y siempre orientado a resultados.
+            Colaboro contigo en cada paso del camino.
           </h3>
+            <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
+            Mi enfoque es transparente, flexible y siempre orientado a resultados.
+          </p>
           <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter mb-4">
-            Analizo tus necesidades, propongo soluciones realistas y ejecuto con método y creatividad.
+            Analizo tus necesidades, propongo soluciones prácticas y ejecuto con método y creatividad.
           </p>
           <p className="text-lg md:text-xl text-foreground/80 leading-relaxed font-inter">
             Formo parte de <span className="font-semibold text-primary">VA Everywhere</span>, una comunidad de asistentes virtuales profesionales que respalda cada proyecto con experiencia y compromiso.

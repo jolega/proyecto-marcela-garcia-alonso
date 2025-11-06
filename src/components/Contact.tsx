@@ -46,11 +46,11 @@ const Contact = () => {
             Hablemos
           </h2>
           <p className="text-lg md:text-xl text-foreground/80 font-inter max-w-3xl mx-auto leading-relaxed">
-            ¿Te gustaría delegar tareas, mejorar tu estrategia digital o simplemente ganar tiempo?
+            Si quieres delegar tareas, potenciar tu estrategia digital o ganar tiempo, estoy aquí para ayudarte a hacerlo realidad.
           </p>
-          <p className="text-lg md:text-xl text-foreground/80 font-inter max-w-3xl mx-auto leading-relaxed mt-2">
+          {/* <p className="text-lg md:text-xl text-foreground/80 font-inter max-w-3xl mx-auto leading-relaxed mt-2">
             Estoy aquí para ayudarte a hacerlo realidad.
-          </p>
+          </p> */}
         </div>
 
         <div className="grid md:grid-cols-2 gap-12 animate-fade-in-up">

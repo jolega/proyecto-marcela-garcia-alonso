@@ -14,7 +14,7 @@ const App = () => (
       <Toaster />
       <Sonner />
       {/* ✅ Solo este BrowserRouter, con basename */}
-      <BrowserRouter basename="/proyecto-marcela-garcia-alonso">
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
           <Route path="*" element={<NotFound />} />
